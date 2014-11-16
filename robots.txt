@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://limingzju.github.io/sitemap.xml 
